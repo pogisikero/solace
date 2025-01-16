@@ -1,0 +1,9 @@
+img {
+    display: block; /* Makes the image a block-level element */
+    margin-top: 15%;
+    margin-left: auto;
+    margin-right: auto; /* Centers the image horizontally */
+    width: 20%; /* Adjust this percentage as needed */
+    height: auto; /* Maintains aspect ratio */
+    justify-items: center;
+  }
